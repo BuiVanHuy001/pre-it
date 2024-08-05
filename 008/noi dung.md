@@ -10,6 +10,7 @@ b) Kiểm tra ngày, tháng, năm đó có hợp lệ hay không:
 c) Cho biết ngày đó là ngày thứ bao nhiêu trong năm (có xét năm nhuận).
 
 d) Cho biết ngày tháng vừa nhập trong năm 2023 là thứ mấy. Biết rằng ngày 01/01/2023 là Chủ Nhật.
+
 ---
 
 ### Bài 2: Nhập số nguyên dương N (5 ≤ N ≤ 10, nếu nhập sai thì yêu cầu nhập lại đến khi đúng).
