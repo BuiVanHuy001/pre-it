@@ -25,7 +25,7 @@ c) Tính trung bình cộng các phần tử trong mảng.
 
 d) Tìm số chẵn nhỏ nhất trong mảng. Nếu mảng không có số chẵn thì trả về 0.
 
-e) Tìm vị trí xuất hiện số chính phương đầu tiên. Biết rằng: số chính phương là số bằng bình phương của một số tự nhiên, ví dụ: 16 là số chính phương vì 16 = 42, 81 là số chính phương vì 81 = 92…
+e) Tìm vị trí xuất hiện số chính phương đầu tiên. Biết rằng: số chính phương là số bằng bình phương của một số tự nhiên, ví dụ: 16 là số chính phương vì 16 = 4^2, 81 là số chính phương vì 81 = 9^2…
 
 f) Sắp xếp mảng giảm dần
 
